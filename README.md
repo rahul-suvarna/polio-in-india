@@ -5,4 +5,9 @@
  
 ![alt text](polio-dashboard.png)
 
-- To checkout the dashboard [click here](https://public.tableau.com/app/profile/suvarna.rahul/viz/WildPolioCasesinIndia/polio-india-dashboard).
+- To check out the dashboard [click here](https://public.tableau.com/app/profile/suvarna.rahul/viz/WildPolioCasesinIndia/polio-india-dashboard).
+- Key insights from this dashboard:
+  - Polio was a prevalent disease in several states in India.
+  - States and Union Territories with large populations or high population densities were the most affected by polio.
+  - A reduction in the number of reported polio cases is seen throughout the time span of the available data.
+  - No polio cases have been reported in India since 2012.
