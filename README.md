@@ -9,5 +9,9 @@
 - Key insights from this dashboard:
   - Polio was a prevalent disease in several states in India.
   - States and Union Territories with large populations or high population densities were the most affected by polio.
-  - A reduction in the number of reported polio cases is seen throughout the time span of the available data.
+  - A reduction in the number of reported polio cases is seen throughout the available data period.
   - No polio cases have been reported in India since 2012.
+- Limitations of the data:
+  - This data provides insight into a very narrow period (1997 - 2015).
+  - Some states did not exist until the year 2000; for example, the state of Uttarakhand was formerly a part of Uttar Pradesh.
+  - Some states did not exist until after 2015, so no data exists for those states separately.
